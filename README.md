@@ -16,13 +16,15 @@
 ### Citation 
 If you use this material or code, please cite it as follows:
 
+```
 @misc{santurkar2020notes,
    title={Adversarial examples and human-ML alignment (MIT BCS tutorial)},
    author={Shibani Santurkar and Dimitris Tsipras},
    year={2020},
    url={https://github.com/MadryLab/BCS_Tutoria}
 }
+```
 
 ### Contributors
-Shibani Santurkar<br/><br/>
-Dimitris Tsipras
+* [Shibani Santurkar](http://people.csail.mit.edu/shibani/)
+* [Dimitris Tsipras](http://people.csail.mit.edu/tsipras/)
