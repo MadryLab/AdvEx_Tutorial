@@ -2,7 +2,6 @@
 
 [Exercise notebook](https://colab.research.google.com/github/MadryLab/AdvEx_Tutorial/blob/master/alignment_exercise.ipynb)
 
-<<<<<<< HEAD
 [Solution notebook](https://colab.research.google.com/github/MadryLab/AdvEx_Tutorial/blob/master/alignment_solution.ipynb)
 
 ### Based on the following works
@@ -27,6 +26,3 @@ If you use this material or code, please cite it as follows:
 ### Contributors
 Shibani Santurkar<br/><br/>
 Dimitris Tsipras
-=======
-[Exercise notebook](https://colab.research.google.com/github/MadryLab/BCS_Tutorial/blob/master/alignment_solution.ipynb)
->>>>>>> 23b857b... Create README.md
